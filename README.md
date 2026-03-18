@@ -1,5 +1,5 @@
-### Hi there 👋
-Hi, I'm Dévon.
+### Hi~ 👋
+Dévon here！
 
 I'm a software developer from Qinghai, China, currently based in Beijing.
 I have around 4 years of experience in software development, with a current focus on Java.
