@@ -1,13 +1,15 @@
 ### Hi there 👋
-It's dévon, a developer in growing. I'm originally from Qinghai.China but have spent few years working and living in Peking.
+Hi, I'm Dévon.
 
-I'm passionate about design & UX in Mobile Applications especially, and love spending my free time on Youtube, etc. When I'm not doing that, you can usually find me on Twitter, Weibo and so on.
+I'm a software developer from Qinghai, China, currently based in Beijing.
+I have around two years of experience in software development, with a current focus on Java.
 
-Professionally, I've worked in software-developing for 2 years around now, and have gained a lot of experience in coding. I'm currently working on coding based on Java, which I'm really excited about.
+I'm especially interested in design, user experience, and mobile applications.
+Beyond coding, I enjoy exploring ideas through YouTube, Twitter, and Weibo.
 
-In terms of personality, I'm positive, responsible, and introverted. I try to approach everything with a positive attitude and am always looking for ways to improve myself and those around me.
+I’m a positive, responsible, and introspective person who values continuous learning and steady growth.
 
-I'm really looking forward to getting to know all of you better, and hope we can all learn and grow together!
+Always happy to connect, learn, and build.
 <!--
 **0xdevon/0xdevon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
