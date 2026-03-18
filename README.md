@@ -2,9 +2,9 @@
 Hi, I'm Dévon.
 
 I'm a software developer from Qinghai, China, currently based in Beijing.
-I have around two years of experience in software development, with a current focus on Java.
+I have around 4 years of experience in software development, with a current focus on Java.
 
-I'm especially interested in design, user experience, and mobile applications.
+I'm especially interested in design, UX, and mobile applications.
 Beyond coding, I enjoy exploring ideas through YouTube, Twitter, and Weibo.
 
 I’m a positive, responsible, and introspective person who values continuous learning and steady growth.
